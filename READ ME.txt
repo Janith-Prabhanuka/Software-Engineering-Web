@@ -1,0 +1,23 @@
+READ ME -------------------------------------------------------
+
+Super Racing 2D Game!
+
+Controllers:
+Enter Key-----> Start Game
+Space Key----->Jump Up
+
+-----------------------------------------
+Fuctions:
+*You need to recover from all the obstacles such as flames,cactus,stones,blasting
+*Sometimes flames coming through runway,you need to recover from them by moving up
+*You can earn more marks by collecting coins floating through the path ---- +100 (marks)
+*Level 1 completes at when Score equals to 500 and Level 2 completes at when Score completes 1000 marks
+*when level up, speed will increase gradually!
+-----------------------------------------
+
+Tips:
+1.Level 1,you have to escape flames and you can collect coins
+2.Level 2, you should able to recover from Flames,FireBalls,Cactus additionally .
+
+Enjoy The Game!
+

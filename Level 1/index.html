@@ -1,0 +1,35 @@
+<!DOCTYPE  html>
+<html>
+    <head>
+        <title>Super Racing</title>
+        <link rel="icon" href="favicon.png"/>
+        <link rel="stylesheet" href="style.css"/>
+    </head>
+
+    <body onkeyup="keyCheck(event);" class="body">  
+        
+        <div class="background" id="background"></div>
+        
+
+
+            <img src="Car.png" class="boy" id="boy"/>
+            <img src="Wheel (1).png" class="wheelR" id="wheelR"/>
+            <img src="Wheel (1).png" class="wheelF" id="wheelF"/>
+            <div class="score" id="score"> 0 </div>
+            
+            <div class="gameOverScreen" id="gameOverScreen">
+                <div> Game Over! </div>
+                <div> Your Score </div>
+                <div class="finalScore" id="finalScore"> 0 </div>
+                    <button class="btn1" onclick="reload()">Try Again!</button>
+            </div>
+            <div class="nextLevelScreen" id="nextLevelScreen">
+                <div> Congratulations!</div>
+                <div>Level 1 Completed! </div>
+                    <a href="http://127.0.0.1:5500/index2.html">
+                    <button class="btn2">Go To Next Level</button></a>
+            </div>
+        </div>
+        <script src="script.js"></script>
+    </body>
+</html>
